@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently study on SMK Telkom Malang
 - 🌱 I’m currently learning programming
 - 👯 I’m looking to collaborate on google
-- 📫 How to reach me: instagram (@rasya_rafaelr)
+- 📫 How to reach me: email (rafaelrasya529@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like sport
 
