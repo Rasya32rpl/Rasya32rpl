@@ -1,4 +1,5 @@
-Hi, I'm Rasya Rafael
+# 💫 Hi 👋, I'm Imran Alam
+**A passionate Web Developer || Backend Developer ||
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rasya Rafael) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafaelrasya529@gmail.com) 
 
@@ -11,5 +12,9 @@ Hi, I'm Rasya Rafael
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rasya32rpl&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
